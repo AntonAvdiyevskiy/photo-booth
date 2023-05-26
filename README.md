@@ -7,7 +7,7 @@ We can run application on our PC if we have Java17 installed just using commands
 
 For this business tasks REST API were implemented, also there is swagger documentation 
 we can go to swagger page -> http://localhost:8080/swagger-ui/index.html#/
-or just use implemented endpoints through the postman or other client soft.
+or just use implemented endpoints through the postman or other client soft.  
 **Endpoints functional description**
 
 1) Endpoint for reversing the order of the words  
